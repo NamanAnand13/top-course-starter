@@ -9,13 +9,13 @@ Top Courses is a React-based web application designed to help users discover and
 - Responsive Design: Ensures a consistent and enjoyable user experience across various devices.
 
 ## Screenshots
-(![Screenshot1](image.png))
+![Screenshot1](image.png)
 
 ![Screenshot2](image-1.png)
 
 ## Dependencies
-- react-toastify: Used for displaying notifications (success, warning) related to liking or removing likes from courses.
-- react-icons: Utilized for incorporating like and dislike icons.
+- `react-toastify`: Used for displaying notifications (success, warning) related to liking or removing likes from courses.
+- `react-icons`: Utilized for incorporating like and dislike icons.
 
 ## How to Run
 - Clone the repository: `https://github.com/NamanAnand13/top-course-starter.git`
